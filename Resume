@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1  {
+  color: blue;
+  font-family: times new roman;
+  font-size: 250%;
+  }
+  p{
+  border: 5px solid red;
+  }
+  
+</style>  
+</head>
+
+<body>
+  <h1>
+  Sarena Groetsch 
+  </h1>
+  <a href="sgroetsc@asu.edu"> sgroetsc@asu.edu </a>
+  <img height='100'>
+
+  <h2> Objective </h2>
+    <p> I want to program video games and websites for advertising </p>
+
+  <h3> Education </h3>
+    <table>
+      <tr>
+        <th> School </th>
+         <p>  Scottsdale community college
+              Mesa community college
+              Paradise valley community college
+              Arizona State university </p>
+        <th> years </th>
+        </tr>
+      </table>
+
+    <h4> Experience </h4>
+      <ol>
+        <li>
+          <p>
+            Programing experience in java, c++, python, and javascript
+            artistic ability and training
+            3D modeling and rendering experience
+            </p>
+          </li>
+        </ol>
+
+      <h5> References </hs>
+        <ul>
+          <li>
+            <p>
+              Dr Steven Light Horizon High School
+              Dr Judy Blant Scottsdale Community college
+          </li>
+          <li>
+          </li>
+        </ul>
+
+      </body>
+
+      </html>
